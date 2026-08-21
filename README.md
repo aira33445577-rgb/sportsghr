@@ -19,3 +19,7 @@ https://www.sportsghar.com/collections/puma-trainers
 # nike trainers
 
 https://www.sportsghar.com/collections/nike-trainers
+
+# Pre-Owned Nike P-6000
+
+https://www.sportsghar.com/collections/pre-owned-nike-p-6000
